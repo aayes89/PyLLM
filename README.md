@@ -1,5 +1,5 @@
 # PyLLM
-Entrena tu propio LLM desde cero con tus propios datos.
+Genera y entrena un LLM desde cero con tus propios datos.
 
 El código implementa un LLM utilizando las siguientes dependencias:
 - <b>os, math, random, pathlib</b>     - para funciones de sistema y aritmética
